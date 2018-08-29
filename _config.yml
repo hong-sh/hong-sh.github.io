@@ -14,9 +14,9 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Hsh
-  url:               -
-  email:             hongdroid.ai@gmail.com
+  name: Hong seong hak
+  url: -
+  email: hongdroid.ai@gmail.com
 
 # Custom vars
 version:             1.0.0
