@@ -10,10 +10,6 @@ description:         'Posting about<br>Artificial Intelligence<br>Android<br>Com
 url:                 http://lanyon.getpoole.com
 baseurl:             ""
 paginate:            5
-
-node:
-  -title: test
-  -url: test
   
 
 # About/contact
