@@ -1,5 +1,5 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Hong's Blog
+description: Artificial intelligence, Android, Computer Science, etc...
 
 url: http://brianmaierjr.github.com/long-haul
 baseurl: ""
@@ -18,6 +18,10 @@ navigation:
    url: /about
  - title: Contact
    url: /contact
+- title: Artificial Intelligence
+   url: /ai
+-title: Android
+   url: /android
 
 social:
    github: brianmaierjr
