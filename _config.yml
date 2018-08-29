@@ -11,6 +11,11 @@ url:                 http://lanyon.getpoole.com
 baseurl:             ""
 paginate:            5
 
+node:
+  -title: test
+  -url: test
+  
+
 # About/contact
 author:
   name:              Hong seong hak
