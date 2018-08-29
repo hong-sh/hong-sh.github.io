@@ -6,16 +6,16 @@ permalink:           /
 # Setup
 title:               Hong's
 tagline:             'blog'
-description:         'Posting about Artificial Intelligence / Android / Computer Science, etc'
+description:         '<p>Posting about</p> <p>Artificial Intelligence</p> <p>Android</p> <p>Computer Science, etc</p>'
 url:                 http://lanyon.getpoole.com
 baseurl:             ""
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Hong seong hak
+  url:               -
+  email:             hongdroid.ai@gmail.com
 
 # Custom vars
 version:             1.0.0
