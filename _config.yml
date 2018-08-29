@@ -6,7 +6,7 @@ permalink:           /
 # Setup
 title:               Hong's
 tagline:             'blog'
-description:         '<p>Posting about</p> <p>Artificial Intelligence</p> <p>Android</p> <p>Computer Science, etc</p>'
+description:         'Posting about<br>Artificial Intelligence<br>Android<br>Computer Science, etc'
 url:                 http://lanyon.getpoole.com
 baseurl:             ""
 paginate:            5
