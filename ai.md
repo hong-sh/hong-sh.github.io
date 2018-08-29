@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Artificial Intelligence
 ---
 
 <p class="message">
