@@ -2,9 +2,6 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           /
-markdown: kramdown
-encoding: utf-8
-
 
 # Setup
 title:               Hong's
@@ -22,3 +19,7 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+# Build settings
+markdown: kramdown
+encoding: utf8
