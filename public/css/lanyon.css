@@ -35,13 +35,15 @@
  */
 
 /* Prevent scroll on narrow devices */
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+
 html,
 body {
   overflow-x: hidden;
 }
 
 html {
-  font-family: "PT Serif", 'Nanum Gothic Coding', Georgia, "Times New Roman", serif;
+  font-family: 'Nanum Gothic Coding', "PT Serif", Georgia, "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
