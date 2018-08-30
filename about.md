@@ -3,6 +3,15 @@ layout: page
 title: About Me
 ---
 
+<p class="message" style="text-align:center">
+  Hong Seong Hak
+</p>
+
+<div class="pull-right">
+#### Email: hongdroid.ai@gmail.com
+#### Git-Hub: https://github.com/hong-sh
+</div>
+
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
