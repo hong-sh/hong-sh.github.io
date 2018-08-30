@@ -4,8 +4,8 @@ title: About Me
 ---
 
 <p class="message" style="text-align:center"> Hong Seong Hak</p>
-<p style="text-align:right; font-size:12px">Email: hongdroid.ai@gmail.com</p>
-<p style="text-align:right; font-size:12px">Git-Hub: https://github.com/hong-sh</p>
+<p style="text-align:right; font-size:14px">Email: hongdroid.ai@gmail.com
+<br>Git-Hub: https://github.com/hong-sh</p>
 
 #### Education
 * 2018.08, 서울시립대학교 전자전기컴퓨터공학과 Artificial Intelligence Lab
