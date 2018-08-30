@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Me
-encoding: "utf8"
 ---
 
 <p class="message" style="text-align:center"> Hong Seong Hak</p>
@@ -9,7 +8,7 @@ encoding: "utf8"
 <br>Git-Hub: https://github.com/hong-sh</p>
 
 #### Education
-*TAAASDFASDF ㅁㄴㅇㄹ
+*TAAASDFASDF ㅁㄴㅇㄹㅁㄴㅇㄻㄴㅇㄹ
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
