@@ -36,6 +36,8 @@
 
 /* Prevent scroll on narrow devices */
 
+@font-face { font-family: "Nanum Gothic Coding"; src: url(NanumGothicCoding.ttf) format('truetype'); }
+
 
 html,
 body {
@@ -43,7 +45,7 @@ body {
 }
 
 html {
-  font-family: "Nanum Gothic Coding", "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: Nanum Gothic Coding, "PT Serif", Georgia, "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
