@@ -5,12 +5,10 @@ title: About Me
 
 <p class="message" style="text-align:center">
   Hong Seong Hak
+<span style="text-align:right">Email: hongdroid.ai@gmail.com</span>
+<span style="text-align:right">Git-Hub: https://github.com/hong-sh</span>
 </p>
 
-<div class="pull-right">
-#### Email: hongdroid.ai@gmail.com
-#### Git-Hub: https://github.com/hong-sh
-</div>
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
