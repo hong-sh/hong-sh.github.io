@@ -2,6 +2,9 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           /
+markdown: kramdown
+encoding: utf-8
+
 
 # Setup
 title:               Hong's
@@ -10,7 +13,6 @@ description:         'Posting about<br>Artificial Intelligence<br>Android<br>Com
 url:                 http://lanyon.getpoole.com
 baseurl:             ""
 paginate:            5
-encoding: utf-8
   
 
 # About/contact

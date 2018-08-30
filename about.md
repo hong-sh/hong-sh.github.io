@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Me
-encoding: utf-8
 ---
 
 <p class="message" style="text-align:center"> Hong Seong Hak</p>
