@@ -4,13 +4,13 @@
 permalink:           /
 
 # Setup
-title:               Hong's
+title:               Hongdroid.ai's
 tagline:             'blog'
 description:         'Posting about<br>Artificial Intelligence<br>Android<br>Computer Science, etc'
 url:                 http://lanyon.getpoole.com
 baseurl:             ""
 paginate:            5
-  
+
 
 # About/contact
 author:
