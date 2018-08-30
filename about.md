@@ -7,7 +7,9 @@ title: About Me
 <p style="text-align:right; font-size:12px">Email: hongdroid.ai@gmail.com</p>
 <p style="text-align:right; font-size:12px">Git-Hub: https://github.com/hong-sh</p>
 
-
+#### Education
+* 2018.08, 서울시립대학교 전자전기컴퓨터공학과 Artificial Intelligence Lab
+(advisor: 이 재호) 석사 졸업 예정
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
