@@ -9,7 +9,7 @@ title: About Me
 
 #### Education
 * 2018.08, 서울시립대학교 전자전기컴퓨터공학과 Artificial Intelligence Lab  
-(advisor: 이 재호) 석사 졸업 예정 
+(advisor: 이 재호) 석사 졸업 
 * 2016.08, 충북대학교 소프트웨어학과 Computer Graphic and Contents Lab 
 (advisor: 류 관희) 학사 졸업 
 
