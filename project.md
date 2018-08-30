@@ -6,15 +6,15 @@ title: Projects
 ------------------------------------------------------------------------------------------------
 
 ### 개인 서비스용 로봇을 위한 지능형 프레임워크 개발 
-* 서울시립대학교 Artificial Intelligence Lab 참여 과제, 2016.08 ~ 2018.07
+* 서울시립대학교 Artificial Intelligence Lab 참여 과제, 2016.08 ~ 2018.07     
 * 본 프로젝트에서는 개인 서비스용 로봇을 구동하기 위한 하드웨어/소프트웨어 모듈을 통합하고 제어하기 위한 프레임워크를 개발하였습니다.
 로봇의 작업 관리나 상황추론을 위한 모듈은 에이전트로 구성되어 black board 기반의 지능형 로봇 프레임워크로 통합됩니다.
 저는 에이전트 간 통합 프레임워크와 통신체계를 구축하고 실시간으로 로봇의 작업 상태, 현재 상황, 활용되는 지식 등을 모니터하기 위한 
-로그 인터페이스를 개발하였습니다. 
-* Framework Architecture & Log interface Architecture      
-![project1](public/project1_img.PNG)
+로그 인터페이스를 개발하였습니다.               
+* Framework Architecture & Log interface Architecture         
+![project1](public/project1_img.PNG)                
 * Used Skills        
-\#Java \#ActiveMQ 
+\#Java \#ActiveMQ            
 
 
 ### Education
