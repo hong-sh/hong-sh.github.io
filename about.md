@@ -5,8 +5,8 @@ title: About Me
 
 <p class="message" style="text-align:center">
   Hong Seong Hak
-<span style="text-align:right">Email: hongdroid.ai@gmail.com</span>
-<span style="text-align:right">Git-Hub: https://github.com/hong-sh</span>
+<p style="text-align:right">Email: hongdroid.ai@gmail.com</p>
+<p style="text-align:right">Git-Hub: https://github.com/hong-sh</p>
 </p>
 
 
