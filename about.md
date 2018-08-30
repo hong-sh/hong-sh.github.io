@@ -9,7 +9,7 @@ encoding: "utf8"
 <br>Git-Hub: https://github.com/hong-sh</p>
 
 #### Education
-*TAAASDFASDF §±§§§∑§©
+*TAAASDFASDF „ÖÅ„Ñ¥„Öá„Ñπ
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
