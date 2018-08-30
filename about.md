@@ -3,12 +3,7 @@ layout: page
 title: About Me
 ---
 
-<p class="message" style="text-align:center; font-weight:bold; font-size: 18px"> Hong Seong Hak</p>
-
-
-
-
-### Hong Seong Hak
+<p style="text-align:center; font-weight:bold; font-size: 20px"> Hong Seong Hak</p>
 <p style="text-align:right; font-size:14px">Email: hongdroid.ai@gmail.com
 <br>Git-Hub: https://github.com/hong-sh</p>
 
