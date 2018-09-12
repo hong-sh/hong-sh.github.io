@@ -13,7 +13,7 @@ title: Projects
 로그 인터페이스를 개발하였습니다.
                
 * Framework Architecture & Log interface Architecture         
-![project1](public/project_img/project1_img1.png)  ![project1_2](public/project_img/project1_img2.png)               
+![project1](public/project_img/project1_img1.png)
                
 * Used Skills        
 \#Java #ActiveMQ            
@@ -41,8 +41,7 @@ title: Projects
                        
 * Service Architecture and Application UI		
 ![project3](public/project_img/project3_img1.png)		
-![project3_1](public/project_img/project3_img2.png)  ![project3_2](public/project_img/project3_img3.png)  ![project3_3](public/project_img/project3_img4.png) 
-               
+		
 * Used Skills #Android
 \#Google Fire Base #PHP #MySql
                        
@@ -68,7 +67,6 @@ Google Map API를 활용하여 사용자는 현재 위치에 대한 의료기관
 추가적으로 시각장애인의 접근성을 위해 Android Talkback 서비스를 이용한 음성 가이드 기능을 구현하였습니다. 
                         
 * Application UI 		
-![project5](public/project_img/project5_img1.png)  
 ![project5_1](public/project_img/project5_img2.png)
                         
 * Used Skills                        
@@ -84,7 +82,6 @@ Google Map API를 활용하여 사용자는 현재 위치에 대한 의료기관
                         
 * System Architecture and User Application UI 		
 ![project6](public/project_img/project6_img1.png)		
-![project6_1](public/project_img/project6_img2.png)  ![project6_2](public/project_img/project6_img2.png)  ![project6_3](public/project_img/project6_img3.png)  ![project6_4](public/project_img/project6_img4.png)
                        
 * Used Skills                       
  \#Android #GCM(Google Cloud Message) #Http protocol 
@@ -99,7 +96,6 @@ Google Map API를 활용하여 사용자는 현재 위치에 대한 의료기관
                         
 * System Architecture and User Application UI 		
 ![project7](public/project_img/project7_img1.png)		
-![project7_1](public/project_img/project7_img2.png)  ![project7_2](public/project_img/project7_img3.png)
                        
 * Used Skills                       
  \#Android #Location-based #NFC  
