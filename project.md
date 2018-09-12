@@ -13,7 +13,7 @@ title: Projects
 로그 인터페이스를 개발하였습니다.
                
 * Framework Architecture & Log interface Architecture         
-![project1](public/project_img/project1_img1.png)  ![project1_2](public/project_img/project_img2.png)               
+![project1](public/project_img/project1_img1.png)  ![project1_2](public/project_img/project1_img2.png)               
                
 * Used Skills        
 \#Java #ActiveMQ            
