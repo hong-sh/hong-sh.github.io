@@ -95,7 +95,7 @@ Google Map API를 활용하여 사용자는 현재 위치에 대한 의료기관
 추가적으로 기존 운송장의 개인 정보 유출을 막기 위한 택배 기사와 수령인만 정보를 조회할 수 있는 NFC 태그 기반의 운송장을 설계하였습니다. 
                         
 * System Architecture and User Application UI 		
-![project7](public/project_img/project7_img1.png)		
+![project7](public/project_img/project7_img1.jpg)		
                        
 * Used Skills                       
  \#Android #Location-based #NFC  
