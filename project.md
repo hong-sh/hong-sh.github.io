@@ -13,7 +13,7 @@ title: Projects
 로그 인터페이스를 개발하였습니다.
                
 * Framework Architecture & Log interface Architecture         
-![project1](public/project1_img.PNG)                
+![project1](public/project_img/project1_img1.png)  ![project1_2](public/project_img/project_img2.png)               
                
 * Used Skills        
 \#Java #ActiveMQ            
@@ -26,7 +26,8 @@ title: Projects
 상호작용 및 행위에 대한 프로퍼티와 표현방식을 정의하였습니다. 또한 소셜 로봇 서비스 수행 시 추론 기능과 서술 언어에 대한 개방성 및 
 확장성을 지원하기 위해 소셜 로봇 서비스 서술 언어 스키마에 대한 온톨로지 기반의 지식 모델을 구축하였습니다. 
                
-* Ontology-based Description Language Schema and Expression Method Example 
+* Ontology-based Description Language Schema and Expression Method Example		
+![project2](public/project_img/project2_img1.png) 
                
 * Used Skills                        
 \#Ontology #RDF 
@@ -38,7 +39,9 @@ title: Projects
 양육 유사도 검사 기능을 통해 부모는 자신과 가장 유사한 양육 성향을 가진 베이비시터를 확인할 수 있습니다. 
 추가적으로 부모와 베이비시터 간 원활한 정보 교환을 위해 Google Fire Base를 활용하여 온라인 채팅 기능을 구현하였습니다.  
                        
-* Service Architecture and Application UI 
+* Service Architecture and Application UI		
+![project3](public/project_img/project3_img1.png)		
+![project3_1](public/project_img/project3_img2.png)  ![project3_2](public/project_img/project3_img3.png)  ![project3_3](public/project_img/project3_img4.png) 
                
 * Used Skills #Android
 \#Google Fire Base #PHP #MySql
@@ -51,7 +54,8 @@ title: Projects
 분석할 수 있는 서버를 개발하였습니다. 또한 분석 결과를 도식화 어플리케이션에 전달하는 기능을 구현하였습니다.
 이 어플리케이션을 통해 학생들은 쉽게 논리적 오류를 확인할 수 있습니다. 
                         
-* Application UI 
+* Application UI 		
+![project4](public/project_img/project4_img1.png)
                         
 * Used Skills                       
 \#ANTLR(Compiler-Compiler) 
@@ -63,7 +67,9 @@ title: Projects
 Google Map API를 활용하여 사용자는 현재 위치에 대한 의료기관의 이름, 주소, 전화번호, 평점, 리뷰 등의 정보를 확인할 수 있습니다.
 추가적으로 시각장애인의 접근성을 위해 Android Talkback 서비스를 이용한 음성 가이드 기능을 구현하였습니다. 
                         
-* Application UI 
+* Application UI 		
+![project5](public/project_img/project5_img1.png)  
+![project5_1](public/project_img/project5_img2.png)
                         
 * Used Skills                        
 \#Android #Google Map API #MySql #PHP 
@@ -76,7 +82,9 @@ Google Map API를 활용하여 사용자는 현재 위치에 대한 의료기관
 저는 고객용 어플리케이션 개발을 맡아 사용자가 음료를 주문/결제 했을 때 데이터를 카운터용 어플리케이션으로 전달하는 기능을 개발하였습니다.
 추가적으로 카운터 어플리케이션에서 설정한 신메뉴나 이벤트 같은 마케팅 광고를 사용자 어플리케이션에 노출하는 알림 기능을 구현하였습니다. 
                         
-* System Architecture and User Application UI 
+* System Architecture and User Application UI 		
+![project6](public/project_img/project6_img1.png)		
+![project6_1](public/project_img/project6_img2.png)  ![project6_2](public/project_img/project6_img2.png)  ![project6_3](public/project_img/project6_img3.png)  ![project6_4](public/project_img/project6_img4.png)
                        
 * Used Skills                       
  \#Android #GCM(Google Cloud Message) #Http protocol 
@@ -89,7 +97,9 @@ Google Map API를 활용하여 사용자는 현재 위치에 대한 의료기관
 그리고 택배 기사가 배송지 근처에 접근 시 사용자에게 택배사에서 제공하는 택배 기사의 정보를 알려주는 기능을 구현하였습니다.
 추가적으로 기존 운송장의 개인 정보 유출을 막기 위한 택배 기사와 수령인만 정보를 조회할 수 있는 NFC 태그 기반의 운송장을 설계하였습니다. 
                         
-* System Architecture and User Application UI 
+* System Architecture and User Application UI 		
+![project7](public/project_img/project7_img1.png)		
+![project7_1](public/project_img/project7_img2.png)  ![project7_2](public/project_img/project7_img3.png)
                        
 * Used Skills                       
  \#Android #Location-based #NFC  
