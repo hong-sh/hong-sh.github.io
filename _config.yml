@@ -8,7 +8,7 @@ title:               hongdroid.ai
 tagline:             "'s blog"
 description:         'Posting about<br>Artificial Intelligence<br>Android<br>Computer Science, etc'
 url:                 http://lanyon.getpoole.com
-baseurl:             ""
+baseurl:             "https://hong-sh.github.io"
 paginate:            5
 
 
