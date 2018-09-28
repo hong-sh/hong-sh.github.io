@@ -6,7 +6,7 @@ permalink:           pretty
 
 # Setup
 title:               Hongdroid.ai
-tagline:             '\'s blog'
+tagline:             "'s blog"
 description:         'Posting about<br><a href="#" target="_blank">Artificial Intelligence</a><br>ROS<br>Computer Science, etc.'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
