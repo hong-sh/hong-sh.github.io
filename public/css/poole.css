@@ -35,7 +35,6 @@
  * Update the foundational and global aspects of the page.
  */
 
-
 * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -50,12 +49,12 @@ body {
 
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 13px;
+  font-size: 16px;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 16px;
+    font-size: 20px;
   }
 }
 
@@ -231,7 +230,6 @@ blockquote p:last-child {
 img {
   display: block;
   max-width: 100%;
-  max-height: 400px;
   margin: 0 0 1rem;
   border-radius: 5px;
 }
