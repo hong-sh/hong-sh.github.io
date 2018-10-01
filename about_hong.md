@@ -51,22 +51,22 @@ title: About Hong
                                     
 ### Publications 
 * Seonghak Hong, Byunggi Choi, Jaeho Lee, “Ontology-based Service Model for Social Robot Service Description”, 2017 ICSR Workshop on Social Robot Intelligence for Social Human-Robot Interaction of Service Robots, Nov.2017                         
-                                                 
+            
+------------------------------------------------------------------------------------------------                                     
 
 ### Projects          
-#### 개인 서비스용 로봇을 위한 지능형 프레임워크 개발 
-* 서울시립대학교 Artificial Intelligence Lab 참여 과제, 2016.08 ~ 2018.07     
-* Overview                                                                                    
-개인 서비스용 로봇의 각 기능을 담당하는 하드웨어/소프트웨어 모듈을 통합하고 제어하기 위한 프레임워크 개발
+* 개인 서비스용 로봇을 위한 지능형 프레임워크 개발 
+  - 서울시립대학교 Artificial Intelligence Lab 참여 과제, 2016.08 ~ 2018.07     
+  - 개인 서비스용 로봇의 각 기능을 담당하는 하드웨어/소프트웨어 모듈을 통합하고 제어하기 위한 프레임워크 개발
           
-* Contribution          
+  - Contribution          
 에이전트 간 통합 프레임워크 및 통신체계 구축                                    
 실시간으로 로봇의 작업 상태, 현재 상황, 활용되는 지식 등을 모니터 하기 위한 로그 인터페이스 개발          
                
-* Framework Architecture & Log interface Architecture         
+  - Framework Architecture & Log interface Architecture         
 ![project1](public/project_img/project1_img1.png)
                
-* Used Skills        
+  - Used Skills        
 \#Java #ActiveMQ            
                        
                        
