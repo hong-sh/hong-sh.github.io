@@ -9,8 +9,8 @@ title: Artificial Intelligence
 
 ## Paper Review
 
- * Relational Network [Link] (https://hong-sh.github.io)
- * Swarm Intelligence [Link] (https://hong-sh.github.io) 
+ * Relational Network [link](https://hong-sh.github.io)
+ * Swarm Intelligence [link](https://hong-sh.github.io) 
 
  ------------------------------------------------------------------------------------------------
 
