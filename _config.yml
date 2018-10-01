@@ -5,9 +5,9 @@ permalink:           pretty
 # relative_permalinks: true
 
 # Setup
-title:               Hongdroid.ai
+title:               hongdroid.ai
 tagline:             "'s blog"
-description:         'Posting about<br><a href="#" target="_blank">Artificial Intelligence</a><br>ROS<br>Computer Science, etc.'
+description:         'Posting about<br>Artificial Intelligence<br>ROS<br>Computer Science, etc.'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 gems: [jekyll-paginate]
