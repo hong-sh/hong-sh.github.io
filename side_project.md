@@ -1,17 +1,17 @@
 ---
 layout: page
-title: ROS
+title: Side Project
 ---
 
 <p class="message">
-  ROS
+  Side Project
 </p>
 
-### ROS Tutorial
+### Simple Guide Robot
 
  ------------------------------------------------------------------------------------------------
 
-### Ros Navigation
+### Deep Algorithm Trading
 
 
  ------------------------------------------------------------------------------------------------
