@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About Hong
 ---
 
 
@@ -11,8 +11,8 @@ title: About Me
 ------------------------------------------------------------------------------------------------
 
 ### Education
-* 2018.08, 서울시립대학교 전자전기컴퓨터공학과 Artificial Intelligence Lab (advisor: 이 재호) 석사 졸업 
-* 2016.08, 충북대학교 소프트웨어학과 Computer Graphic and Contents Lab (advisor: 류 관희) 학사 졸업 
+* 2018.08, 서울시립대학교 전자전기컴퓨터공학과 Artificial Intelligence Lab 석사 졸업 
+* 2016.08, 충북대학교 소프트웨어학과 Computer Graphic and Contents Lab 학사 졸업 
                                     
 ### Interest
 * Multi Agent System
@@ -51,14 +51,5 @@ title: About Me
                                     
 ### Publications 
 * Seonghak Hong, Byunggi Choi, Jaeho Lee, “Ontology-based Service Model for Social Robot Service Description”, 2017 ICSR Workshop on Social Robot Intelligence for Social Human-Robot Interaction of Service Robots, Nov.2017                         
-            
-### Academic References 
-* 이 재호           
-서울시립대학교 전자전기컴퓨터 공학과 인공지능 분야 전공 교수       
-Email: jaeho@uos.ac.kr      
- 
-* 류 관희      
-충북대학교 소프트웨어학과 컴퓨터 그래픽스 분야 전공 교수      
-Email: khyoo@cbnu.ac.kr       
                                                  
 ------------------------------------------------------------------------------------------------
