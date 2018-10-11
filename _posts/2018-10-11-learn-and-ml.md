@@ -39,4 +39,4 @@ model.fit(x_train, y_train, epochs = 5)
 *#Run test data*
 model.evaluate(x_test, y_test)
 
-{%end highlight%}
+{%endhighlight%}
