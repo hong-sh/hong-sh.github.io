@@ -13,30 +13,30 @@ title: Learn and use ML
 5. [Save and load](https://www.tensorflow.org/tutorials/keras/save_and_restore_models)
 
 
-{% highlight python3 %}
+{% highlight %}
 
-**import** tensorflow **as** tf
+import tensorflow  as tf
 mnist = tf.keras.datasets.mnist
 
-*#Download MNIST data, require internet*
+#Download MNIST data, require internet
 (x_train, y_train), (x_test, y_test) = mnist.load_data()
 x_train, x_test = x_train / 255.0, x_test / 255.0
 
-*#Configuration Model*
+#Configuration Model
 model = tf.keras.models.Sequential([
     tf.keras.layers.Flatten(),
     tf.keras.layers.Dense(512, activation=tf.nn.relu),
     tf.keras.layers.Dropout(0.2),
     tf.keras.layers.Dense(10, activation=tf.nn.softmax)])
 
-*#Compile Configuration Model*
+#Compile Configuration Model
 model.compile(optimizer = ‘Adam’,
               loss = ‘sparse_categorical_crossentropy’,
               metrics= [‘accuracy’])
 
-*#Run training*
+#Run training
 model.fit(x_train, y_train, epochs = 5)
-*#Run test data*
+#Run test data
 model.evaluate(x_test, y_test)
 
 {%endhighlight%}
