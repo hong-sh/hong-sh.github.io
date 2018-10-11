@@ -13,7 +13,7 @@ title: Learn and use ML
 5. [Save and load](https://www.tensorflow.org/tutorials/keras/save_and_restore_models)
 
 
-{% highlight python %}
+{% highlight python3 %}
 
 **import** tensorflow **as** tf
 mnist = tf.keras.datasets.mnist
