@@ -8,7 +8,7 @@ title: ROS 란?
 수업을 듣는 동안 수업 진도에 맞춰 복습을 하는 느낌으로 블로그에 수업 내용과 관련된 글을 포스팅 할 계획이다.
 
 ## What is the ROS?
-- ROS는 Robot Operating System의 약자로 로봇을 구동시키는 운영체제라고 알 수 있지만 사실상 운영체제는 아니고 meta operating system이라고 ROS는 설명하고 있다.
+- [ROS](http://wiki.ros.org/ko/ROS/Introduction)는 Robot Operating System의 약자로 로봇을 구동시키는 운영체제라고 알 수 있지만 사실상 운영체제는 아니고 meta operating system이라고 ROS는 설명하고 있다.
 - 내가 생각하는 ROS의 가장 큰 기능은 node 간 메시징 서비스이다. ROS는 node라는 패키지 단위로 이루어져 있으며 각 node 들은 topic 기반 메시지 발행/구독을 통해 서로 메시지를 주고 받을 수 있다. (이 부분은 인공지능에서 얘기하는 black board 개념과 굉장히 유사하다고 생각했다.)
 -  여태까지 많은 로봇 구동을 위한 프레임워크 / 플랫폼 / 소프트웨어에 대한 연구, 개발이 있었지만 현재 가장 많이 활용되고 있는 로봇 구동 프레임워크가 ROS 인 이유는 
 1. 첫 번째로 Gazebo, Stage, Rviz 등의 다양한 시뮬레이션 툴을 지원한다는 점과 
