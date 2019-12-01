@@ -9,7 +9,7 @@ title: Fest Campus Robot AI
 
 ### ROS      
 
- * 1. ROS 란?
+ * 1. [ROS 란?](_posts/2019-12-01-What-is-the-ROS.md)
  * 2. ROS hello world
  * 3. [ROS URDF](_posts/2019-12-01-ROS-URDF.md)
 
