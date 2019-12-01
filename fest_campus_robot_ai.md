@@ -11,6 +11,6 @@ title: Fest Campus Robot AI
 
  * 1. ROS 란?
  * 2. ROS hello world
- * 3. ROS URDF
+ * 3. [ROS URDF](_posts/2019-12-01-ROS-URDF.md)
 
  ------------------------------------------------------------------------------------------------
